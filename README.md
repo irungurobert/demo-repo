@@ -1,3 +1,3 @@
 # Demo
 
-ome description!
+some description!
